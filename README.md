@@ -17,9 +17,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 23 24" src="https://github.com/user-attachments/assets/920cee6e-f082-43c3-8340-82fb2ebfd007" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 04 30" src="https://github.com/user-attachments/assets/6581a5da-d872-46d4-905d-359176fe131a" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 04 27" src="https://github.com/user-attachments/assets/409a0b05-66d1-4d71-a8b6-025279fd6cac" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 04 43" src="https://github.com/user-attachments/assets/a076ecee-4748-4301-889e-3335cb1c4acd" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 36 32" src="https://github.com/user-attachments/assets/d99572ac-e586-4a39-a3ab-4f90d713d788" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 36 32" src="https://github.com/user-attachments/assets/34a37adf-9d9e-44c8-80d5-0907100cb68a" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 23 24" src="https://github.com/user-attachments/assets/94eadee8-a169-476f-a308-529c196602eb" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 04 43" src="https://github.com/user-attachments/assets/6429cf78-8747-44d2-99c8-8f354bffe73d" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 04 30" src="https://github.com/user-attachments/assets/68ed96a3-ac85-46bb-a65d-0f901067b9fb" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-01 at 13 04 27" src="https://github.com/user-attachments/assets/b5277ad9-e4e9-4e41-b9b5-4a0d9f1250b7" />
 
